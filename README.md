@@ -1,19 +1,19 @@
 # 🎓 My Education
 
 ## 🧬 Academic Background
-
 - Biology Student
-- Currently exploring the world of technology and programming.
 
-## 💻 Technical Learning
+## 💻 Programming & Web Development
+Currently learning and exploring:
+- 🌐 HTML
+- 🎨 CSS
+- ☕ Java
+- ⚡ Express.js
 
-- TypeScript
-- JavaScript
-- Node.js
-- Express.js
-- REST APIs
+## 🌱 My Learning Philosophy
+- 📚 Learning something new every day.
+- 💡 Building knowledge step by step.
+- 🚀 Progress over perfection.
 
-## 🌱 My Goal
-
-To combine my academic knowledge with technology,
-continuously learn new skills, and grow as a developer.
+## 🎯 My Goal
+To become a skilled developer through continuous learning, practice, and creativity.
